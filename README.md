@@ -49,6 +49,7 @@ python chatbot.py
 ```  
 
 ## 👥 Contributors  
-- **[Your Name]** – Lead Developer  
-- **Team Member 1** – NLP Specialist  
-- **Team Member 2** – ML Engineer  
+- **[Your Name]** – Ketan Joshi  
+- **Team Member 1** – Vibhanshu Sonicha  
+- **Team Member 2** – Aaqib Nazir
+- **Team Member 2** – Harshvardhan Ghodke
