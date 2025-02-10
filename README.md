@@ -49,7 +49,7 @@ python chatbot.py
 ```  
 
 ## 👥 Contributors  
-- **[Your Name]** – Ketan Joshi  
+- **Team Leader** – Ketan Joshi  
 - **Team Member 1** – Vibhanshu Sonicha  
 - **Team Member 2** – Aaqib Nazir
 - **Team Member 2** – Harshvardhan Ghodke
